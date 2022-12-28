@@ -4,11 +4,13 @@ repo: uptime # The name of this repository
 
 sites:
   - name: SharafatKarim | Blog
-    url: https://hcpss.me/
+    url: https://sharafat.pages.dev/
   - name: "Sharafat's Notes"
-    url: https://hcpss.me/saml/saml2/idp/metadata.php
+    url: https://sharafat.vercel.app/
   - name: Linux Headlines
-    url: https://hcpss.me/enhanced-security/script.js
+    url: https://sharafatkarim.github.io/LinuxHeadlines/
+  - name: SharafatKarim | Legacy Site
+    url: https://sharafatkarim.github.io/legacy-site/
 assignees:
   - SharafatKarim
 
@@ -20,7 +22,7 @@ status-website:
   logoUrl: https://sharafatkarim.github.io/legacy-site/images/avatar.png
   name: UpTime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/hcpss/upptime).
+  introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/SharafatKarim/uptime).
   navbar:
     - title: Status
       href: /
