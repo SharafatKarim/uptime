@@ -3,72 +3,14 @@ owner: SharafatKarim # Your GitHub organization or username, where this reposito
 repo: uptime # The name of this repository
 
 sites:
-  - name: hcpss.me
+  - name: SharafatKarim | Blog
     url: https://hcpss.me/
-  - name: SSO
+  - name: "Sharafat's Notes"
     url: https://hcpss.me/saml/saml2/idp/metadata.php
-  - name: Enhanced Security
+  - name: Linux Headlines
     url: https://hcpss.me/enhanced-security/script.js
-  - name: www.hcpss.me
-    url: https://www.hcpss.me/
-  - name: Minio
-    url: https://secminio.hcpss.org/public/status.xml
-  - name: HCLibrary Cards
-    url: https://aplusstudent.hcpss.me/images/hclibrary.png
-  - name: Docker Registry
-    url: https://reg.hcpss.org/
-  - name: Student/Staff Account Management Web
-    url: https://sam.hcpss.org/
-  - name: Student/Staff Account Management API
-    url: https://sam.hcpss.org/api/docs/
-  - name: SSO JWT
-    url: https://sso-jwt.hcpss.org/sso-jwt/jwt.pub
-  - name: Account Self-Service Web
-    url: https://account.hcpss.org/
-  - name: Account Self-Service API
-    url: https://account.hcpss.org/api/docs/
-  - name: LDAP API
-    url: https://ldapapi.hcpss.org/
-  - name: Password API
-    url: https://passwordapi.hcpss.org/
-  - name: SMTP API
-    url: https://smtpapi.hcpss.org/
-  - name: IP Info
-    url: https://ipinfo.hcpss.org/
-  #- name: Locutus
-  #  url: https://locutus.hcpss.org/
-  - name: WireGuard
-    url: https://wgapi.hcpss.org/api/docs/
-  - name: MeshCentral
-    url: https://meshcentral.hcpss.org/
-  - name: Chromebook API
-    url: https://chromebookapi.hcpss.org/
-  - name: Canvas API
-    url: https://canvasapi.hcpss.org/
-  #- name: Auth Proxy
-  #  url: https://auth-proxy.hcpss.org/
-  #- name: ADFS
-  #  url: https://adfs.hcpss.org/adfs/ls/
-  - name: SaltProject API
-    url: https://saltapi.hcpss.org/
-  - name: Borg
-    url: https://borg.hcpss.org/
-  - name: Send
-    url: https://send.hcpss.org/
-  - name: PWPush
-    url: https://pwpush.hcpss.org/
-  - name: PWGen
-    url: https://pwgen.hcpss.org/
-  - name: CO MTA
-    check: "tcp-ping"
-    url: coamta.hcpss.org
-    port: 25
-  - name: AO MTA
-    check: "tcp-ping"
-    url: aoamta.hcpss.org
-    port: 25
 assignees:
-  - nickadam
+  - SharafatKarim
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
