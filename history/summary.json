@@ -44,8 +44,8 @@
     "slug": "linux-headlines",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 174,
@@ -53,9 +53,7 @@
     "timeWeek": 163,
     "timeMonth": 174,
     "timeYear": 174,
-    "dailyMinutesDown": {
-      "2023-01-19": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SharafatKarim | Legacy Site",
@@ -64,8 +62,8 @@
     "slug": "sharafat-karim-legacy-site",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 56,
@@ -73,8 +71,6 @@
     "timeWeek": 52,
     "timeMonth": 56,
     "timeYear": 56,
-    "dailyMinutesDown": {
-      "2023-01-19": 2
-    }
+    "dailyMinutesDown": {}
   }
 ]
