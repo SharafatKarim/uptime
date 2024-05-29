@@ -3,7 +3,7 @@ owner: SharafatKarim # Your GitHub organization or username, where this reposito
 repo: uptime # The name of this repository
 
 sites:
-  - name: "SharafatKarim | Blog"
+  - name: "SharafatKarim - Blog"
     url: https://sharafat.pages.dev/
   - name: "Sharafat's Notion"
     url: https://sharafat.notion.site/
@@ -15,7 +15,7 @@ sites:
     url: https://sharafat.is-a.dev/logs/
   - name: "Linux Headlines"
     url: https://sharafatkarim.github.io/LinuxHeadlines/
-  - name: "SharafatKarim | Legacy Site"
+  - name: "SharafatKarim - Legacy Site"
     url: https://sharafatkarim.github.io/legacy-site/
 assignees:
   - SharafatKarim
