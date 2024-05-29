@@ -20,7 +20,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  baseUrl: https://sharafat.is-a.dev/uptime/
+  baseUrl: https://sharafat.is-a.dev/uptime
   cname: sharafat.is-a.dev
   logoUrl: https://res.cloudinary.com/dte603aka/image/upload/v1716336015/profile-photo/n7njpy1zabnutm6ash61.png
   name: UpTime
