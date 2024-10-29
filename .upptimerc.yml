@@ -5,8 +5,6 @@ repo: uptime # The name of this repository
 sites:
   - name: "SharafatKarim - Blog"
     url: https://sharafat.pages.dev/
-  - name: "Sharafat's Notion"
-    url: https://sharafat.notion.site/
   - name: "Sharafat's docs"
     url: https://sharafat.gitbook.io/
   - name: "Sharafat's Notes"
