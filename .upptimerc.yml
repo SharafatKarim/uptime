@@ -33,6 +33,8 @@ status-website:
       href: /uptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
+    - title: CronJob
+      href: https://0m2hz27y.status.cron-job.org/
+      
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
