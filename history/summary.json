@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 131,
-    "timeDay": 108,
-    "timeWeek": 124,
-    "timeMonth": 142,
+    "timeDay": 111,
+    "timeWeek": 126,
+    "timeMonth": 139,
     "timeYear": 134,
     "dailyMinutesDown": {}
   },
@@ -29,8 +29,8 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 650,
-    "timeDay": 761,
-    "timeWeek": 820,
+    "timeDay": 808,
+    "timeWeek": 786,
     "timeMonth": 982,
     "timeYear": 650,
     "dailyMinutesDown": {
@@ -50,8 +50,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
     "time": 488,
-    "timeDay": 214,
-    "timeWeek": 187,
+    "timeDay": 121,
+    "timeWeek": 173,
     "timeMonth": 206,
     "timeYear": 579,
     "dailyMinutesDown": {
@@ -79,8 +79,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 84,
-    "timeDay": 43,
-    "timeWeek": 56,
+    "timeDay": 31,
+    "timeWeek": 45,
     "timeMonth": 62,
     "timeYear": 84,
     "dailyMinutesDown": {
@@ -100,16 +100,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sharafatkarim.github.io.ico",
     "slug": "linux-headlines",
     "status": "up",
-    "uptime": "87.48%",
+    "uptime": "87.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "77.75%",
-    "time": 202,
-    "timeDay": 212,
-    "timeWeek": 158,
-    "timeMonth": 208,
-    "timeYear": 192,
+    "uptimeYear": "78.02%",
+    "time": 201,
+    "timeDay": 80,
+    "timeWeek": 145,
+    "timeMonth": 207,
+    "timeYear": 191,
     "dailyMinutesDown": {
       "2024-12-23": 21,
       "2024-10-29": 52,
@@ -195,8 +195,7 @@
       "2024-03-07": 1440,
       "2024-03-06": 1440,
       "2024-03-05": 1440,
-      "2024-03-04": 1440,
-      "2024-03-03": 1440
+      "2024-03-04": 1440
     }
   },
   {
@@ -205,14 +204,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/sharafatkarim.github.io.ico",
     "slug": "sharafat-karim-legacy-site",
     "status": "up",
-    "uptime": "87.49%",
+    "uptime": "87.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "77.77%",
+    "uptimeYear": "78.05%",
     "time": 75,
-    "timeDay": 80,
-    "timeWeek": 79,
+    "timeDay": 40,
+    "timeWeek": 70,
     "timeMonth": 101,
     "timeYear": 74,
     "dailyMinutesDown": {
@@ -298,8 +297,7 @@
       "2024-03-07": 1440,
       "2024-03-06": 1440,
       "2024-03-05": 1440,
-      "2024-03-04": 1440,
-      "2024-03-03": 1440
+      "2024-03-04": 1440
     }
   }
 ]
