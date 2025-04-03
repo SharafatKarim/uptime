@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/sharafat.pages.dev.ico",
     "slug": "sharafat-karim-blog",
     "status": "up",
-    "uptime": "94.29%",
+    "uptime": "94.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 132,
-    "timeDay": 136,
-    "timeWeek": 150,
-    "timeMonth": 142,
+    "time": 133,
+    "timeDay": 142,
+    "timeWeek": 152,
+    "timeMonth": 143,
     "timeYear": 137,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 637,
-    "timeDay": 393,
-    "timeWeek": 505,
-    "timeMonth": 512,
-    "timeYear": 637,
+    "time": 636,
+    "timeDay": 407,
+    "timeWeek": 517,
+    "timeMonth": 500,
+    "timeYear": 636,
     "dailyMinutesDown": {
       "2025-02-03": 24,
       "2024-07-30": 38
@@ -50,9 +50,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
     "time": 483,
-    "timeDay": 185,
-    "timeWeek": 233,
-    "timeMonth": 182,
+    "timeDay": 141,
+    "timeWeek": 183,
+    "timeMonth": 183,
     "timeYear": 579,
     "dailyMinutesDown": {
       "2024-12-23": 22,
@@ -79,8 +79,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 81,
-    "timeDay": 23,
-    "timeWeek": 84,
+    "timeDay": 49,
+    "timeWeek": 74,
     "timeMonth": 57,
     "timeYear": 81,
     "dailyMinutesDown": {
@@ -100,15 +100,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/sharafatkarim.github.io.ico",
     "slug": "linux-headlines",
     "status": "up",
-    "uptime": "87.95%",
+    "uptime": "87.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.24%",
+    "uptimeYear": "86.51%",
     "time": 203,
-    "timeDay": 134,
-    "timeWeek": 249,
-    "timeMonth": 182,
+    "timeDay": 317,
+    "timeWeek": 247,
+    "timeMonth": 190,
     "timeYear": 184,
     "dailyMinutesDown": {
       "2024-12-23": 21,
@@ -164,8 +164,7 @@
       "2024-04-07": 1440,
       "2024-04-06": 1440,
       "2024-04-05": 1440,
-      "2024-04-04": 1440,
-      "2024-04-03": 1440
+      "2024-04-04": 1440
     }
   },
   {
@@ -174,15 +173,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/sharafatkarim.github.io.ico",
     "slug": "sharafat-karim-legacy-site",
     "status": "up",
-    "uptime": "87.96%",
+    "uptime": "87.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.27%",
+    "uptimeYear": "86.54%",
     "time": 73,
-    "timeDay": 46,
-    "timeWeek": 121,
-    "timeMonth": 80,
+    "timeDay": 78,
+    "timeWeek": 106,
+    "timeMonth": 81,
     "timeYear": 73,
     "dailyMinutesDown": {
       "2024-12-23": 21,
@@ -236,8 +235,7 @@
       "2024-04-07": 1440,
       "2024-04-06": 1440,
       "2024-04-05": 1440,
-      "2024-04-04": 1440,
-      "2024-04-03": 1440
+      "2024-04-04": 1440
     }
   }
 ]
