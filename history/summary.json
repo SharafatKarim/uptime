@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sharafat.pages.dev.ico",
     "slug": "sharafat-karim-blog",
     "status": "up",
-    "uptime": "95.53%",
+    "uptime": "95.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 176,
     "timeMonth": 160,
     "timeYear": 144,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Sharafat's docs",
@@ -88,7 +90,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sharafatkarim.github.io.ico",
     "slug": "linux-headlines",
     "status": "up",
-    "uptime": "90.57%",
+    "uptime": "90.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -108,7 +110,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sharafatkarim.github.io.ico",
     "slug": "sharafat-karim-legacy-site",
     "status": "up",
-    "uptime": "90.58%",
+    "uptime": "90.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
