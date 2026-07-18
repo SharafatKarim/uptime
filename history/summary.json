@@ -88,7 +88,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sharafatkarim.github.io.ico",
     "slug": "linux-headlines",
     "status": "up",
-    "uptime": "92.33%",
+    "uptime": "92.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -105,17 +105,19 @@
     "url": "https://sharafatkarim.github.io/legacy-site/",
     "icon": "https://icons.duckduckgo.com/ip3/sharafatkarim.github.io.ico",
     "slug": "sharafat-karim-legacy-site",
-    "status": "up",
+    "status": "down",
     "uptime": "92.34%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 107,
-    "timeDay": 187,
-    "timeWeek": 161,
-    "timeMonth": 163,
-    "timeYear": 115,
-    "dailyMinutesDown": {}
+    "time": 168,
+    "timeDay": 15315,
+    "timeWeek": 3946,
+    "timeMonth": 1140,
+    "timeYear": 198,
+    "dailyMinutesDown": {
+      "2026-07-18": 0
+    }
   }
 ]
