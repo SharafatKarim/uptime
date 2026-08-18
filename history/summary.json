@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 138,
-    "timeDay": 92,
-    "timeWeek": 104,
-    "timeMonth": 87,
+    "timeDay": 126,
+    "timeWeek": 112,
+    "timeMonth": 89,
     "timeYear": 133,
     "dailyMinutesDown": {
       "2025-11-18": 41
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 542,
-    "timeDay": 332,
-    "timeWeek": 433,
-    "timeMonth": 339,
-    "timeYear": 506,
+    "timeDay": 308,
+    "timeWeek": 441,
+    "timeMonth": 340,
+    "timeYear": 504,
     "dailyMinutesDown": {
       "2025-08-25": 126,
       "2025-08-26": 16,
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 207,
-    "timeDay": 163,
-    "timeWeek": 205,
-    "timeMonth": 191,
-    "timeYear": 207,
+    "time": 208,
+    "timeDay": 191,
+    "timeWeek": 175,
+    "timeMonth": 190,
+    "timeYear": 208,
     "dailyMinutesDown": {
       "2026-01-02": 38
     }
@@ -73,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 71,
-    "timeDay": 40,
-    "timeWeek": 78,
-    "timeMonth": 81,
+    "timeDay": 154,
+    "timeWeek": 91,
+    "timeMonth": 83,
     "timeYear": 75,
     "dailyMinutesDown": {
       "2026-01-02": 38
@@ -93,9 +93,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 286,
-    "timeDay": 165,
-    "timeWeek": 222,
-    "timeMonth": 207,
+    "timeDay": 354,
+    "timeWeek": 240,
+    "timeMonth": 209,
     "timeYear": 310,
     "dailyMinutesDown": {}
   },
@@ -105,16 +105,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sharafatkarim.github.io.ico",
     "slug": "sharafat-karim-legacy-site",
     "status": "up",
-    "uptime": "92.51%",
+    "uptime": "92.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
-    "time": 169,
-    "timeDay": 71,
-    "timeWeek": 117,
-    "timeMonth": 1037,
-    "timeYear": 198,
+    "time": 170,
+    "timeDay": 234,
+    "timeWeek": 136,
+    "timeMonth": 1038,
+    "timeYear": 199,
     "dailyMinutesDown": {
       "2026-07-18": 44
     }
