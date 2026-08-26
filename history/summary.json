@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 137,
-    "timeDay": 187,
-    "timeWeek": 111,
-    "timeMonth": 97,
-    "timeYear": 132,
+    "timeDay": 105,
+    "timeWeek": 116,
+    "timeMonth": 98,
+    "timeYear": 131,
     "dailyMinutesDown": {
       "2025-11-18": 41
     }
@@ -29,14 +29,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 534,
-    "timeDay": 404,
-    "timeWeek": 273,
-    "timeMonth": 326,
-    "timeYear": 491,
+    "uptimeYear": "99.99%",
+    "time": 533,
+    "timeDay": 246,
+    "timeWeek": 281,
+    "timeMonth": 330,
+    "timeYear": 417,
     "dailyMinutesDown": {
-      "2025-08-26": 16,
       "2025-12-05": 31
     }
   },
@@ -52,10 +51,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 209,
-    "timeDay": 244,
-    "timeWeek": 226,
-    "timeMonth": 203,
-    "timeYear": 207,
+    "timeDay": 213,
+    "timeWeek": 230,
+    "timeMonth": 206,
+    "timeYear": 208,
     "dailyMinutesDown": {
       "2026-01-02": 38
     }
@@ -72,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 72,
-    "timeDay": 161,
-    "timeWeek": 135,
-    "timeMonth": 95,
+    "timeDay": 91,
+    "timeWeek": 133,
+    "timeMonth": 97,
     "timeYear": 77,
     "dailyMinutesDown": {
       "2026-01-02": 38
@@ -86,15 +85,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/sharafatkarim.github.io.ico",
     "slug": "linux-headlines",
     "status": "up",
-    "uptime": "92.55%",
+    "uptime": "92.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 288,
-    "timeDay": 322,
-    "timeWeek": 298,
-    "timeMonth": 244,
+    "time": 289,
+    "timeDay": 243,
+    "timeWeek": 296,
+    "timeMonth": 248,
     "timeYear": 312,
     "dailyMinutesDown": {}
   },
@@ -110,9 +109,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 172,
-    "timeDay": 185,
-    "timeWeek": 235,
-    "timeMonth": 155,
+    "timeDay": 181,
+    "timeWeek": 232,
+    "timeMonth": 159,
     "timeYear": 202,
     "dailyMinutesDown": {
       "2026-07-18": 44
